@@ -1,0 +1,8 @@
+{
+"ctwLoginVerifyResult": {
+  "phone":"0123456789",
+  "authentication":"true",
+  "role":"driver",
+  "message":""
+  }
+}
