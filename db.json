@@ -1,8 +1,11 @@
 {
-"ctwLoginVerifyResult": {
-  "phone":"0123456789",
-  "authentication":"true",
-  "role":"driver",
-  "message":""
+  "ctwLoginVerifyResult": {
+    "authentication":"true",
+    "phone":"0123456789",
+    "name":"HK TAN",
+    "role":"driver",
+    "status":"false",
+    "message":"",
+    "plateNumber":"PBA8686"
   }
 }
