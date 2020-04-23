@@ -8,5 +8,17 @@
     "message":"success",
     "plateNumber":"PBA8686",
     "company":"agency86"
+    "driverData":{
+      "plateNumber":"PBA8686",
+      "company":"agency86",
+      "warehouse":[
+        {
+          "MS":"KLANG"
+        },
+        {
+          "PG":"PENANG"
+        }
+      ]
+    }
   }
 }
