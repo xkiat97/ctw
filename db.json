@@ -2,7 +2,11 @@
   "ctwLoginVerifyResult": {
     "authentication":"true",
     "phone":"0123456789",
+    "name":"YT HO",
     "role":"driver",
+    "status":"true",
+    "message":"success",
+    "plateNumber":"PBA8686",
     "company":"agency86"
   }
 }
