@@ -5,9 +5,7 @@
     "name":"YT HO",
     "role":"driver",
     "status":"true",
-    "message":"success",
-    "plateNumber":"PBA8686",
-    "company":"agency86",
+    "message":"",
     "driverData":{
       "plateNumber":"PBA8686",
       "company":"agency86",
